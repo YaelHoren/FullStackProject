@@ -165,3 +165,4 @@ H:\FinalProject\FinalProject\Server\bin\Debug\net8.0\BL.dll
 H:\FinalProject\FinalProject\Server\bin\Debug\net8.0\Dal.dll
 H:\FinalProject\FinalProject\Server\bin\Debug\net8.0\BL.pdb
 H:\FinalProject\FinalProject\Server\bin\Debug\net8.0\Dal.pdb
+H:\FinalProject\FinalProject\Server\obj\Debug\net8.0\Server.sourcelink.json
