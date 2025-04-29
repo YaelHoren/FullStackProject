@@ -1,0 +1,14 @@
+H:\FinalProject\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.exe
+H:\FinalProject\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.deps.json
+H:\FinalProject\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.runtimeconfig.json
+H:\FinalProject\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.dll
+H:\FinalProject\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.pdb
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfoInputs.cache
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfo.cs
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.csproj.CoreCompileInputs.cache
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.dll
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\refint\FinalProject.dll
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.pdb
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.genruntimeconfig.cache
+H:\FinalProject\FinalProject\FinalProject\obj\Debug\net8.0\ref\FinalProject.dll
