@@ -4769,11 +4769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\FinalProject\\FinalProject\\Server\\Server.csproj",
+      "projectUniqueName": "H:\\‏‏תיקיה חדשה\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "H:\\FinalProject\\FinalProject\\Server\\Server.csproj",
+      "projectPath": "H:\\‏‏תיקיה חדשה\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\הנסב רבקה\\.nuget\\packages\\",
-      "outputPath": "H:\\FinalProject\\FinalProject\\Server\\obj\\",
+      "outputPath": "H:\\‏‏תיקיה חדשה\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4795,11 +4795,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "H:\\FinalProject\\FinalProject\\BL\\BL.csproj": {
-              "projectPath": "H:\\FinalProject\\FinalProject\\BL\\BL.csproj"
+            "H:\\‏‏תיקיה חדשה\\BL\\BL.csproj": {
+              "projectPath": "H:\\‏‏תיקיה חדשה\\BL\\BL.csproj"
             },
-            "H:\\FinalProject\\FinalProject\\Dal\\Dal.csproj": {
-              "projectPath": "H:\\FinalProject\\FinalProject\\Dal\\Dal.csproj"
+            "H:\\‏‏תיקיה חדשה\\Dal\\Dal.csproj": {
+              "projectPath": "H:\\‏‏תיקיה חדשה\\Dal\\Dal.csproj"
             }
           }
         }

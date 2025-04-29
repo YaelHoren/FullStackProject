@@ -1,0 +1,9 @@
+# Ignore Visual Studio temporary files and folders
+.vs/
+*.vsidx
+*.vscode/
+*.suo
+*.cache
+*.user
+*.log
+*.tlog
